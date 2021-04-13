@@ -1,0 +1,67 @@
+[
+    {
+        "model": "app_competences.ListWorkstation",
+        "pk": 1,
+        "fields": {
+          "name": "Développeur",
+          "commentary": "developpeur"
+      }
+    },
+    {
+      "model": "app_competences.ListWorkstation",
+      "pk": 2,
+      "fields": {
+        "name": "Designer",
+        "commentary": "designer"
+      }
+    },
+    {
+        "model": "app_competences.ListWorkstation",
+        "pk": 3,
+        "fields": {
+          "name": "Manager",
+          "commentary": "manager"
+        }
+      },
+      {
+        "model": "app_competences.ListWorkstation",
+        "pk": 4,
+        "fields": {
+          "name": "Directeur",
+          "commentary": "directeur"
+        }
+      },
+      {
+        "model": "app_competences.ListWorkstation",
+        "pk": 5,
+        "fields": {
+          "name": "Responsable",
+          "commentary": "responsable"
+        }
+      },
+      {
+        "model": "app_competences.ListWorkstation",
+        "pk": 6,
+        "fields": {
+          "name": "Ressources humaines",
+          "commentary": "RH"
+        }
+      },
+      {
+        "model": "app_competences.ListWorkstation",
+        "pk": 7,
+        "fields": {
+          "name": "Stagiaire",
+          "commentary": "stagiaire"
+        }
+      },
+      {
+        "model": "app_competences.ListWorkstation",
+        "pk": 8,
+        "fields": {
+          "name": "Administration",
+          "commentary": "administration"
+        }
+      }
+
+  ]

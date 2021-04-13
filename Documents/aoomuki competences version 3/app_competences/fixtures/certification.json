@@ -1,0 +1,44 @@
+[
+    {
+        "model": "app_competences.Certification",
+        "pk": 1,
+        "fields": {
+          "name": "Scrum Master PSM 1"
+      }
+    },
+    {
+        "model": "app_competences.Certification",
+        "pk": 2,
+        "fields": {
+          "name": "Product Owner"
+      }
+    },
+    {
+        "model": "app_competences.Certification",
+        "pk": 3,
+        "fields": {
+          "name": "Prince 2"
+      }
+    },
+    {
+        "model": "app_competences.Certification",
+        "pk": 4,
+        "fields": {
+          "name": "ITIL Formation"
+      }
+    },
+    {
+        "model": "app_competences.Certification",
+        "pk": 5,
+        "fields": {
+          "name": "Salesforce Administration"
+      }
+    },
+    {
+        "model": "app_competences.Certification",
+        "pk": 6,
+        "fields": {
+          "name": "Selligent CDM"
+      }
+    }
+]
